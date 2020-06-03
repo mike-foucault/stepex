@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/mike-foucault/stepex.svg?style=svg)](https://circleci.com/gh/mike-foucault/stepex)
+
 # Stepex
 
 **TODO: Add description**
