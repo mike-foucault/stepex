@@ -26,3 +26,5 @@ docker run -it --rm \
   --mount "type=bind,src=$(pwd),dst=/opt/shared/stepex" \
   --workdir /opt/shared/stepex \
   elixir-dev:1.10.2 /bin/bash
+
+MIX_ENV=test mix test.watch
